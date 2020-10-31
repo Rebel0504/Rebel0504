@@ -6,6 +6,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebel0504&layout=compact" alt="visitor badge"/>
 
+<img src="https://raw.githubusercontent.com/Rebel0504/Rebel0504/main/octo.gif" alt="visitor badge"/>
+
 
 
 
