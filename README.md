@@ -2,7 +2,7 @@
 
 <h1>Hiya!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> 
  <a href="mailto:jetli0504@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
- <a href="https://www.linkedin.com/in/saurabh-zurunge-2aaa2a131"><img src="https://img.shields.io/badge/-Saurabh%20Zurunge-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/saurabh-zurunge-2aaa2a131"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
  <a href="https://t.me/geekJS"><img src="https://img.shields.io/badge/-@geekJS-0088CC?style=flat&logo=Telegram&logoColor=white" /></a>
  <img src="https://komarev.com/ghpvc/?username=Rebel0504" />
 </h1>
@@ -42,11 +42,14 @@
  </table>
   
 <img src="https://raw.githubusercontent.com/Rebel0504/Rebel0504/main/png1.png" width="300px"/>
-<p><img src="https://img.shields.io/badge/INSTAGRAM%20-%23DC322F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
- <img src="https://img.shields.io/badge/SPOTIFY%20-%23107C10.svg?&style=for-the-badge&logo=Spotify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REDDIT%20-%23F24E1E.svg?&style=for-the-badge&logo=Reddit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/-HACKERRANK-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></p>
+<p>
+ <a href=""><img src="https://img.shields.io/badge/INSTAGRAM%20-%23DC322F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+ <a hre=""><img src="https://img.shields.io/badge/SPOTIFY%20-%23107C10.svg?&style=for-the-badge&logo=Spotify&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/REDDIT%20-%23F24E1E.svg?&style=for-the-badge&logo=Reddit&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/-HACKERRANK-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+ <a href=""><img src="https://img.shields.io/badge/GeeksforGeeks%20-%23107C10.svg?&style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/></a>
+</p>
 
 
 
