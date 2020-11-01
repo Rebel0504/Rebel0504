@@ -9,16 +9,12 @@
 
 <br>
  
-
-
-- 🔭 I’m currently working on Node JS applications
+ 
+- 🔭 I’m currently working on Dating Application
 - 🌱 I’m currently learning React and Angular 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- :heart:Affectionate with Javascript  
+- 😄 Pronouns: He/Him
+
 
 
 
