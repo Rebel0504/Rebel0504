@@ -1,6 +1,6 @@
 <div style="float:left"> <img align="left" src="https://raw.githubusercontent.com/Rebel0504/Rebel0504/main/bitemoji2.jpeg" alt="visitor badge"/></div>
 
-<h1 align="right">Hello , I'm Saurabh Zurunge ! 👋</h1>
+<h1>Hello , I'm Saurabh Zurunge ! 👋</h1>
 
 
 
