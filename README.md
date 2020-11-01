@@ -41,7 +41,10 @@
  </tr>
  </table>
   
-<h1><img src="https://raw.githubusercontent.com/Rebel0504/Rebel0504/main/png1.png" width="300px"/></h1>
+<img src="https://raw.githubusercontent.com/Rebel0504/Rebel0504/main/png1.png" width="300px"/>
+<p><img src="https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white"/>
+<img src="https://img.shields.io/badge/-u/daftdey-FF4500?style=flat&logo=Reddit&logoColor=white"/></p>
 
 
 
