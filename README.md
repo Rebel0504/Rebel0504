@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/Rebel0504/Rebel0504/main/bitemoji2.jpeg" align="right" alt="visitor badge"/>
+<img src="https://raw.githubusercontent.com/Rebel0504/Rebel0504/main/bitemoji2.jpeg" alt="visitor badge"/>
 
-<h1 align="left">Hello , I'm Saurabh Zurunge ! 👋</h1>
+<h1 align="right">Hello , I'm Saurabh Zurunge ! 👋</h1>
 
 
 
