@@ -8,13 +8,15 @@
 <p> I'm <b><i>Saurabh Zurunge</i></b> esteem for building <b>Node JS applications</b> with exclusive designs,currently in stage of exploring more about the javascript to enlarge my proficiency towards it alongside acquired with a degree of <b>BSC-IT & MBA</b>. As at present <b>seeking for a career in Node Js development</b> and also consistently applicable for any contributions.</p>
 
 <br>
-<h1 align="left">More about me:bow:</h1>
+<h1 align="left">More About me :bow:</h1>
  
  
-- 🔭 I’m currently working on Dating Application
-- 🌱 I’m currently learning React and Angular 
-- :heart:Affectionate with Javascript  
-- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on Dating Application (Node JS)
+- 🌱 I’m currently learning React and Angular JS 
+- :computer: I have also build a website for <a href="https://www.rcthaneeast.com">Rotaract Club of Thane East</a>
+- :heart:Affectionate with Javascript stuffs  
+- 💬Open to share new Ideas!, Here's one of it: What If we build the AI technology who understoods the human language commands and build the application according to it!
+- :video_game: Rejuvenate the energy with video games!
 
 
 
