@@ -53,6 +53,9 @@
 
 
 
+<details>
+ <summary>GitHub Stats</summary>
+ <img src="https://github-readme-stats.vercel.app/api?username=Rebel0504&show_icons=true&theme=gruvbox" alt="visitor badge"/>
+ </details>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rebel0504&show_icons=true&theme=gruvbox" alt="visitor badge"/>
 
