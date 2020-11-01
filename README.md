@@ -42,7 +42,7 @@
  </table>
   
 <img src="https://raw.githubusercontent.com/Rebel0504/Rebel0504/main/png1.png" width="300px"/>
-<p><img src="https://img.shields.io/badge/INSTAGRAM%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<p><img src="https://img.shields.io/badge/INSTAGRAM%20-%23DC322F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
  <img src="https://img.shields.io/badge/SPOTIFY%20-%23107C10.svg?&style=for-the-badge&logo=Spotify&logoColor=white"/>
   <img src="https://img.shields.io/badge/REDDIT%20-%23F24E1E.svg?&style=for-the-badge&logo=Reddit&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
