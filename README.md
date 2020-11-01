@@ -1,4 +1,4 @@
-<div style="float:left"> <img align="left" src="https://raw.githubusercontent.com/Rebel0504/Rebel0504/main/bitemoji2.jpeg" alt="visitor badge"/></div>
+<div style="float:left"> <img align="left" src="https://raw.githubusercontent.com/Rebel0504/Rebel0504/main/bitemoji2.jpeg" width="300px" height="300px" alt="bitemoji"/></div>
 
 <h1>I'm Saurabh Zurunge !</h1>
 
