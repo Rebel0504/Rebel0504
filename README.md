@@ -8,7 +8,7 @@
 <p> I'm <b><i>Saurabh Zurunge</i></b> esteem for building <b>Node JS applications</b> with exclusive designs,currently in stage of exploring more about the javascript to enlarge my proficiency towards it alongside acquired with a degree of <b>BSC-IT & MBA</b>. As at present <b>seeking for a career in Node Js development</b> and also consistently applicable for any contributions.</p>
 
 <br>
-<h1 align="left">:information_desk_person: More about me</h1>
+<h1 align="left">More about me:bow:</h1>
  
  
 - 🔭 I’m currently working on Dating Application
