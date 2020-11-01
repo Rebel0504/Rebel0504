@@ -1,7 +1,7 @@
-<div style="float:left"> <img align="left" src="https://raw.githubusercontent.com/Rebel0504/Rebel0504/main/bitemoji2.jpeg" width="300px" height="300px" alt="bitemoji"/></div>
+<div style="float:left"> <img align="left" src="https://raw.githubusercontent.com/Rebel0504/Rebel0504/main/bitemoji2.jpeg" width="150px" height="200px" alt="bitemoji"/></div>
 
-<h1>I'm Saurabh Zurunge !</h1>
-
+<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" /> I'm Saurabh Zurunge !</h1>
+<p>
 
 
 
@@ -9,8 +9,6 @@
  
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rebel0504&show_icons=true&theme=gruvbox" alt="visitor badge"/>
 
 
 
@@ -30,3 +28,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rebel0504&show_icons=true&theme=gruvbox" alt="visitor badge"/>
