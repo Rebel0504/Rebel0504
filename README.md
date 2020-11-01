@@ -1,22 +1,8 @@
 <div style="float:left"> <img align="left" src="https://raw.githubusercontent.com/Rebel0504/Rebel0504/main/bitemoji2.jpeg" width="150px" height="200px" alt="bitemoji"/></div>
 
-<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />Hello! I'm Saurabh Zurunge !</h1>
-<p>
-
-
-
-  
+<h1>Hiya!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></h1>
+<p> I'm <b><i>Saurabh Zurunge</i></b> esteem for building <b>Node JS applications</b> with exclusive designs,currently in stage of exploring more about the javascript to enlarge my proficiency towards it alongside acquired with a degree of <b>BSC-IT & MBA</b>.As at present seeking for a career in Node Js development</p>
  
-
-
-
-
-
-
-
-
-
-
 
 
 - 🔭 I’m currently working on Node JS applications
