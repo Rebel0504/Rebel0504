@@ -54,5 +54,5 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rebel0504&show_icons=true&theme=graywhite" alt="visitor badge"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rebel0504&show_icons=true&theme=gruvbox" alt="visitor badge"/>
 
